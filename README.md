@@ -1,2 +1,6 @@
 # hello-world
-a new repository
+
+hello
+
+i am lucky
+i play badminton
